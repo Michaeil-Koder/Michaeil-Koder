@@ -14,9 +14,15 @@ ___
 - Node.js
 - Express.js
 - MongoDB
+- C#
+- ASP.NET
+- SQL
+- Stimulsoft
+- Swagger
+- Postman
 
 ___
 ## تماس با من
 - ایمیل: [Email](michaeil.zare1382@gmail.com)
-- تلگرام:[Telegram](https://t.me/MichiDev)
-- پروفایل GitHub: [GitHub](https://github.com/Michaeil-Koder)
+- تلگرام:[Telegram](https://t.me/MickyDev)
+- GitHub: [GitHub](https://github.com/Michaeil-Koder)
