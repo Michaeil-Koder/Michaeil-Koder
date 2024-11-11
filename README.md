@@ -36,9 +36,9 @@
   <a href="mailto:michaeil.zare1382@gmail.com">
     <img alt="Email" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-  <a href="https://t.me/MickyDev">
+<!--   <a href="https://t.me/MickyDev">
     <img alt="Telegram" src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" height="#" />
-  </a>
+  </a> -->
   <a href="https://github.com/Michaeil-Koder">
     <img  alt="GitHub" title="GitHub" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" height="#" />
   </a>
